@@ -34,7 +34,7 @@ body {
 }
 
 .logo-small {
-      color: #f4511e;
+      color: rgba(8, 1, 99, 0.81);
       font-size: 50px;
   }
   
@@ -139,4 +139,11 @@ body {
 }
 .more-info{
 	padding: 0.75rem 1.25rem;
+}
+
+.footer {
+	padding: 40px 0;
+	background-color: rgba(9, 68, 109, 0.85);
+	color: #fff;
+	font-size: 18px;
 }	
