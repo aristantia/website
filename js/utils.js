@@ -11,19 +11,15 @@ window.chartColors = {
 };
 
 (function(global) {
-	var Months = [
-		'January',
-		'February',
-		'March',
-		'April',
-		'May',
-		'June',
-		'July',
-		'August',
-		'September',
-		'October',
-		'November',
-		'December'
+	var kegiatan = [
+		'Kajian Tematik',
+		'Lomba MTQ',
+		'Kegiatan Ramadhan',
+		'Pelatihan Qori',
+		'Kajian Kemuslimahan',
+		'Kajian Akbar',
+		'Temu Maba',
+		'Kajian Rutin'
 	];
 
 	var COLORS = [
